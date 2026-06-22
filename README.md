@@ -236,10 +236,10 @@ Both before and after imbalance treatment.
 
 | Text Representation | Model               | Accuracy | Precision | Recall | F1 Score |
 | ------------------- | ------------------- | -------- | --------- | ------ | -------- |
-| TF-IDF              | Logistic Regression | 0.8       | 0.74        | 0.8     | 0.53       |
-| TF-IDF              | XGBoost             | 0.74       | 0.68        | 0.74     | 0.48       |
-| Word2Vec            | Logistic Regression | 0.65       | 0.42        | 0.65     | 0.26       |
-| Word2Vec            | XGBoost             | 0.77       | 0.71        | 0.77     | 0.5       |
+| TF-IDF              | Logistic Regression | 0.76       | 0.78        | 0.76     | 0.57       |
+| TF-IDF              | XGBoost             | 0.77       | 0.75        | 0.76     | 0.57       |
+| Word2Vec            | Logistic Regression | 0.12       | 0.67        | 0.12     | 0.12       |
+| Word2Vec            | XGBoost             | 0.79       | 0.73        | 0.79     | 0.53       |
 
 ---
 
